@@ -1,5 +1,4 @@
 # VLSI_IEEE_Paper
 In this paper, the authors propose two approximate adders designed to achieve high accurateness while minimizing errors, delay, and power consumption. These adders are specifically tailored for Carbon Nano-Tube Field Effect Transistor (CNTFET) technology, aiming to reduce the number of transistors compared to accurate adders. Utilizing the Cadence Virtuoso tool for simulation, all circuits are implemented using CNTFET 32nm technology with a supply voltage +Vdd of 0.9 volts. The design focuses on evaluating the propagation delay, power dissipation, and power delay product (PDP) of these approximate adder circuits. The proposed approximate adders, which exhibits minimal errors, low propagation delay, low PDP, and reduced power dissipation, is then utilized in the design of a 2×4 multiplier. The PDP of proposed approximate adder-1 and approximate adder-2 are 0.113396 aJ and 0.095082 aJ respectively.
 
-Below is the link for the paper
-https://ieeexplore.ieee.org/document/10710233 
+The link for the paper https://ieeexplore.ieee.org/document/10710233 
